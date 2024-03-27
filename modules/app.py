@@ -38,9 +38,9 @@ class App:
         self.list_frame = tk.Frame(self.root)
         self.list_frame.pack(padx=20, pady=20)
         
-        # Cabeçalho da listagem
-        tk.Label(self.list_frame, text="Nome").grid(row=0, column=0)
-        tk.Label(self.list_frame, text="Valor").grid(row=0, column=1)
+        # # Cabeçalho da listagem
+        # tk.Label(self.list_frame, text="Nome").grid(row=0, column=0)
+        # tk.Label(self.list_frame, text="Valor").grid(row=0, column=1)
         
         # Botão para abrir o formulário de cadastro
         self.novo_produto_button = tk.Button(self.list_frame, text="Novo Produto", command=self.abrir_formulario)
@@ -59,7 +59,6 @@ class App:
         
         produto = Produto(nome, descricao, valor, disponivel_para_venda)
         self.produtos.append(produto)
-        self.listar_produtos()
         
     def listar_produtos(self):
         # Limpa a listagem atual
