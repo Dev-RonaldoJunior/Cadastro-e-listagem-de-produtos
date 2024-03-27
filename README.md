@@ -1,9 +1,9 @@
 # Product Registration and Listing
  Candidate Qualification Internship - Oak Tecnologia
 
-## Requirement: Product Registration and Listing
+### Requirement: Product Registration and Listing
 
-### Registration:
+#### Registration:
 
 - Form with the following fields:
   - Product Name - text field
@@ -11,7 +11,7 @@
   - Product Value - value field
   - Available for Sale - field with 2 options: yes / no
 
-### Listing:
+#### Listing:
 
 - Listing columns: name, value
 - Sorting by value from lowest to highest
@@ -23,9 +23,9 @@
 # Cadastro-e-listagem-de-produtos
  Qualificação de candidato Estágio de desenvolvimento - Oak Tecnologia
 
-## Requisito: Cadastro e listagem de produtos
+### Requisito: Cadastro e listagem de produtos
 
-### Cadastro:
+#### Cadastro:
 
 - Formulário com os campos abaixo:
   - Nome do produto - campo de texto
@@ -33,7 +33,7 @@
   - Valor do produto - campo de valor
   - Disponível para venda - campo com 2 opções: sim / não
 
-### Listagem:
+#### Listagem:
 
 - Colunas da listagem: nome, valor
 - Ordenação por valor do menor para o maior
@@ -45,9 +45,9 @@
 # Registro y Listado de Productos
  Calificación de Candidato Pasante - Oak Tecnologia
 
-## Requisito: Registro y Listado de Productos
+### Requisito: Registro y Listado de Productos
 
-### Registro:
+#### Registro:
 
 - Formulario con los siguientes campos:
   - Nombre del producto - campo de texto
@@ -55,7 +55,7 @@
   - Valor del producto - campo de valor
   - Disponible para la venta - campo con 2 opciones: sí / no
 
-### Listado:
+#### Listado:
 
 - Columnas del listado: nombre, valor
 - Ordenación por valor de menor a mayor
